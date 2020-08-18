@@ -1,16 +1,16 @@
-### Hi there 👋
+<img src="https://img.icons8.com/doodle/96/000000/hello--v1.png"/>
 
-<!--
-**jope-fd/jope-fd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :earth_americas: Learning languages
+  - Portuguese, English, Spanish, and German
+- :books: Literature and :musical_note: culture
+- :computer: Computers and technology
+- New on programming
+- HTML, CSS and JavaScript
 
-Here are some ideas to get you started:
+## Follow me on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png"/>][linkedin]
+[<img src="https://img.icons8.com/doodle/48/000000/instagram-new.png"/>][instagram]
+
+[instagram]: https://www.instagram.com/jope.fd/
+[linkedin]: https://www.linkedin.com/in/jo%C3%A3o-pedro-fonseca-dantas-362642178/
