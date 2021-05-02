@@ -1,4 +1,4 @@
-# Hi!
+# Hi! 🙂
 
 📚 Bachelor of Computer Science
 🏫 I am actually studying at UFRN, IMD  
