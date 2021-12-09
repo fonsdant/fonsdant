@@ -1,7 +1,6 @@
 # Hi! 🙂
 
-📚 In Bachelor of Computer Science  
+📚 In Bachelor of Infomation Technology 
 🏫 I am actually studying at UFRN, IMD  
-✏️ Some topics that I like are Coq, Math, and OS's  
-🛠️ i3wm, Vim, and Ubuntu/Fedora  
+🛠️ Node.js, Elixir, and Linux
 🌱 In development: competitive programming and chess  
