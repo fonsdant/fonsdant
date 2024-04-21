@@ -1,4 +1,4 @@
-# It'me... no, I'm not Mario!
+# It's me... no, I'm not Mario!
 
 - Brazilian backend developer
 - Working at Itaú Unibanco
